@@ -20,7 +20,7 @@ body {
   font-family: "Red Hat Display", sans-serif;
   font-size: 16px;
   height: 100vh;
-  background: url("./images/pattern-background-desktop.svg");
+  background: url("/images/pattern-background-desktop.svg");
   background-color: var(--primary-pale-blue);
   background-repeat: no-repeat;
   background-size: contain;
