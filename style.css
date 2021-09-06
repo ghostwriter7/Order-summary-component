@@ -20,7 +20,7 @@ body {
   font-family: "Red Hat Display", sans-serif;
   font-size: 16px;
   height: 100vh;
-  background: url("images/pattern-background-desktop.svg");
+  background: url("./images/pattern-background-desktop.svg");
   background-color: var(--primary-pale-blue);
   background-repeat: no-repeat;
   background-size: contain;
@@ -43,7 +43,7 @@ body {
 }
 
 .img {
-  background: url("images/illustration-hero.svg");
+  background: url("./images/illustration-hero.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -77,7 +77,7 @@ p {
   border-radius: 1rem;
 }
 .icon {
-  background: url("images/icon-music.svg");
+  background: url("./images/icon-music.svg");
   width: 48px;
   height: 48px;
 
